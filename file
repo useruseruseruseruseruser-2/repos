@@ -1,0 +1,2 @@
+def ifpal(string):
+    return string == string[::-1]
